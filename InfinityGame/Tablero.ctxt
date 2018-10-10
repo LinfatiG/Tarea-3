@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Tablero
+comment1.params=
+comment1.target=void\ instrucciones()
+comment10.params=
+comment10.target=int\ val()
+comment2.params=
+comment2.target=void\ jugadores()
+comment3.params=
+comment3.target=void\ generarTablero()
+comment4.params=
+comment4.target=void\ desafio()
+comment5.params=
+comment5.target=void\ salud()
+comment6.params=
+comment6.target=void\ salirMenu()
+comment7.params=
+comment7.target=void\ dados()
+comment8.params=
+comment8.target=void\ menu()
+comment9.params=opcn
+comment9.target=void\ seleccion(int)
+numComments=11
